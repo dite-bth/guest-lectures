@@ -1,7 +1,7 @@
 # Gästföreläsning med Appcorn - 2015-11-11
 
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/dite-bth/guest-lectures/master/appcorn-151111/joakim.jpg" />
 
 
 David och Joakim från Appcorn gästade oss och höll en föreläsning om Appcorns historia och ett intro till apputveckling med Android.
