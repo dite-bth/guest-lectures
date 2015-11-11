@@ -11,4 +11,10 @@ det var extra intressant att ta del av på vilket sätt Appcorn arbetar med det 
 att få ta del av deras tips och tricks.
 
 
+Appcorn startades från början av studenter från Webbutveckling då de gjorde en iPhone-app till Blocket.
+Bland kunderna kan nämnas Spotify, Betson, H&M, Svenska Dagbladet m.fl.
+Idag har företaget 14st anställda och finns på orterna Malmö, Luleå och Stockholm.
+Huvudkontoret ligger på campus-området i Karlshamn.
+
+
 <a href="https://www.appcorn.se/" target="_blank">Appcorn</a>
