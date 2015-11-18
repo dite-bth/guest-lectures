@@ -5,7 +5,9 @@
 
 
 Lars har en gedigen erfarenhet inom mjukvaru-, och systemutveckling i företag såsom
-Bombardier, Avalon, Volvo etc.
+<a href="http://se.bombardier.com/se/home.htm">Bombardier</a>, <a href="http://www.avaloninnovation.com/en/">Avalon</a>, <a href="http://www.volvoit.com/volvoit/global/en-gb/Pages/Home%20page.aspx">Volvo</a> m fl.  
+Han har varit med i ett antal kurser, bland annat för att 
+utveckla studenternas kunskaperna inom agila metoder och planering i sina projekt och produktioner.
 
 Föreläsningen belyste projektmetoder såsom <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)">Scrum</a>, <a href="https://en.wikipedia.org/wiki/Unified_Process">Unified Process</a>, <a href="https://en.wikipedia.org/wiki/Kanban_(development)">Kanban</a>, <a href="https://en.wikipedia.org/wiki/Waterfall_model">Vattefall</a> m fl.
 
